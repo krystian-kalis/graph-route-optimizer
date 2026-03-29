@@ -12,7 +12,7 @@ This repository contains a standalone desktop application developed in Python th
 ## Repository Structure
 * **`code.py`**: The main Python source code. It contains the graph structure definitions, the implementation of Dijkstra's algorithm, and the code for the graphical user interface.
 * **`report.pdf`**: Detailed technical documentation and project report. It covers the mathematical foundations, time complexity analysis, and a showcase of the application's capabilities.
-* **`app.exe`**: The compiled, standalone executable file that allows you to run the application directly without installing Python.
+* **`app.exe`**: The compiled, standalone executable file that allows you to run the application directly. Due to its size, it is not hosted in the main file tree. You can download it by navigating to the Releases section on the right side of the GitHub repository page and downloading the latest version (v1.0).
 
 ## Authors
 Krystian Kaliś, Maria Eberhardt
